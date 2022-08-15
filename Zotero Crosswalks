@@ -8,7 +8,7 @@
  $ source_type       : chr "JOUR"
  $ language          : chr "Language"
  $ author            : chr "Author, A.A."
- $ year              : chr ""
+ $ year              : chr "Year"
  $ date_published    : chr "Library Catalog"
  $ title             : chr "Title"
  $ journal           : chr "Series"
